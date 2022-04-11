@@ -1,4 +1,4 @@
-#### E-Commerce Store Products API
+### E-Commerce Store Products API
 
 A small scale API I've built as a practice project. Features Express routing, filtering and sorting functionality with the help of Mongoose, custom error handling and middleware functions as well as Mongoose models.
 
